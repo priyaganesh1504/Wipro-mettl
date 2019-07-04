@@ -1,7 +1,7 @@
 package Workout;
 
 import java.util.Scanner;
-public class Nfibo{
+public class Nthfibo{
 	public static void main(String args[])
 	{
 		int n,a=0,b=0,c=1;
