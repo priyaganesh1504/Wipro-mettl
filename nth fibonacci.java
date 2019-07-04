@@ -1,4 +1,4 @@
-package Workout;
+
 
 import java.util.Scanner;
 public class Nthfibo{
